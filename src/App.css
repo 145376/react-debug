@@ -1,0 +1,7 @@
+/* ::view-transition-old(*) {
+  animation: 300ms ease-out fade-out;
+}
+
+::view-transition-new(*) {
+  animation: 300ms ease-in fade-in;
+} */
